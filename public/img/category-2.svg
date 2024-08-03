@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="50" viewBox="0 0 45 40" fill="none">
+    <path d="M5 10H40V30H5Z" stroke="#6a60a9" stroke-width="2"></path> <!-- Monitor -->
+    <path d="M15 12H35M15 16H35M15 20H35M15 24H35M15 28H35" stroke="#6a60a9" stroke-width="2"></path> <!-- Code lines -->
+    <path d="M20 30V35H25V30" stroke="#6a60a9" stroke-width="2"></path> <!-- Stand -->
+    <circle cx="22.5" cy="37" r="2" stroke="#6a60a9" stroke-width="2"></circle> <!-- Base -->
+</svg>

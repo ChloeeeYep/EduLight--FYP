@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="40" viewBox="0 0 45 40" fill="none">
+    <!-- Monitor shape -->
+    <rect x="5" y="5" width="35" height="25" rx="2" stroke="hsl(335, 75%, 58%)" stroke-width="2"/>
+    <!-- Stand -->
+    <rect x="20" y="30" width="5" height="5" stroke="hsl(335, 75%, 58%)" stroke-width="2"/>
+    <!-- Base -->
+    <path d="M15 35 h15" stroke="hsl(335, 75%, 58%)" stroke-width="2"/>
+    <!-- Screen -->
+    <rect x="10" y="10" width="25" height="15" rx="1" stroke="hsl(335, 75%, 58%)" stroke-width="2"/>
+    <!-- Question mark -->
+    <path d="M22.5 12 v5 m0 2 v1" stroke="hsl(335, 75%, 58%)" stroke-width="2"/>
+    <circle cx="22.5" cy="18" r="1" stroke="hsl(335, 75%, 58%)" stroke-width="2" fill="hsl(335, 75%, 58%)"/>
+</svg>
