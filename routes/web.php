@@ -203,7 +203,7 @@ Route::middleware([
     })->name('dashboard');
 });
 
-//signout
+//signoutuser
 Route::get('/home', [AuthUser::class, 'logout'])->name('logout');
 
 
